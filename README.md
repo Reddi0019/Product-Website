@@ -10,6 +10,7 @@ https://product-website019.netlify.app/
 
 ## Preview
 
-![Home-Page](https://github.com/Reddi0019/Product-Website/assets/144756187/66e6a27b-683e-4ea8-a876-cfd4a4ca9675)
-![Product](https://github.com/Reddi0019/Product-Website/assets/144756187/85c21076-e53c-46b9-ab82-982f6d33981a)
+![Screenshot 2024-05-17 124129](https://github.com/Reddi0019/Product-Website/assets/144756187/ed1df347-303b-47d9-8d47-a89330fc3f18)
+![Screenshot 2024-05-17 123523](https://github.com/Reddi0019/Product-Website/assets/144756187/770fe7c7-6865-4b84-ad18-1981f394281d)
+![Screenshot 2024-05-17 123502](https://github.com/Reddi0019/Product-Website/assets/144756187/6cf4d177-0bcb-47ee-ad01-3cef6e53edb0)
 
