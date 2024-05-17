@@ -4,7 +4,7 @@
 A minimal, responsive and dynamic Product Website project made up using HTML, CSS & JavaScript.
 
 
-## Demo
+## Webpage Link
 
 https://product-website019.netlify.app/
 
